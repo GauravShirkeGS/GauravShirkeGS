@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Shirke</h1>
 <h3 align="center">I'm a Java Developer</h3>
 
 ![I am GitHub Readme Generator's creator](https://github.com/rajashekharms369/rajashekharms369.github.io/blob/main/assets/css/js/img/animation.gif)
@@ -6,12 +6,12 @@
 - :telescope: I’m currently working on **Java Backend frameworks**
 - :seedling: I’m currently learning **Spring-Boot, AWS**
 - :handshake: I’m looking for help with **AWS EC2**
-- :male-technologist: All of my projects are available at [https://rajashekharms369.github.io/](https://rajashekharms369.github.io/)
-- :mailbox: How to reach me **rajmkumar369@gmail.com**
+- :male-technologist: All of my projects are available at [https://gauravshirkegs.github.io/](https://gauravshirkegs.github.io/)
+- :mailbox: How to reach me **shirkegaurav611@gmail.com**
 - :page_facing_up: Know about my experiences [Resume](https://rajashekharms369.github.io/assets/css/js/img/Rajashekhar_Sambalad_Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajashekhar-m-s-2875a3175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashekhar-m-s-2875a3175/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-shirke-897ba9228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashekhar-m-s-2875a3175/" height="30" width="40" /></a>
 <a href="https://leetcode.com/rajashekharms369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajashekharms369" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
