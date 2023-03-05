@@ -8,7 +8,7 @@
 - :handshake: I’m looking for help with **Spring security**
 - :male-technologist: All of my projects are available at [https://gauravshirkegs.github.io/](https://gauravshirkegs.github.io/)
 - :mailbox: How to reach me **shirkegaurav611@gmail.com**
-- :page_facing_up: Know about my experiences [Resume](https://github.com/GauravShirkeGS/GauravShirkeGS.github.io/blob/d0be1ded45ae0fcda6f84ebda3bb8f79b6619e66/assets/fw21_0985-Gaurav-Shirke.pdf)
+- :page_facing_up: Know about my experiences [Resume](https://github.com/GauravShirkeGS/GauravShirkeGS.github.io/blob/master/assets/fw21_0985-Gaurav-Shirke.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav-shirke-897ba9228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashekhar-m-s-2875a3175/" height="30" width="40" /></a>
